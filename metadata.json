@@ -1,0 +1,6 @@
+{
+  "name": "SkillCurve",
+  "description": "ردیاب پیشرفت مهارت‌ها با تسک‌های تکرارشونده و نمودار تحلیلی کاهش تدریجی اثر (Diminishing Returns)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
